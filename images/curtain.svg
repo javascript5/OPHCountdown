@@ -1,0 +1,33 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="999.986" height="2838.422" viewBox="0 0 260 738">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #aa043b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ce053e;
+      }
+
+      .cls-3 {
+        fill: #f7b208;
+      }
+
+      .cls-4 {
+        fill: #ea8b00;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,431"/>
+  <g>
+    <path class="cls-2" d="M35,382S240.761,278.087,250-27H-61V423Z"/>
+    <path class="cls-2" d="M-3,727S188.338,558.685,52,428"/>
+    <path class="cls-1" d="M-1-7V725S135.415,568.13,56.683,437.307l-10.332-64s76.491-31.708,125.392-208.2c0,0,32.577-122.785,30.265-170.389Z"/>
+    <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-3" d="M-46,372H64c11.046,0,20,12.536,20,28s-8.954,28-20,28H-46c-11.046,0-20-12.536-20-28S-57.046,372-46,372Z"/>
+    <path id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" class="cls-4" d="M-68,372H42c11.046,0,20,12.536,20,28s-8.954,28-20,28H-68c-11.046,0-20-12.536-20-28S-79.046,372-68,372Z"/>
+  </g>
+</svg>
